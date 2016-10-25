@@ -26,32 +26,48 @@ br{padding-top: 20px;
 }
 .green{
 background-color: white;
+text-decoration: line-through;
 }
 
 .lightblue{
 margin: 20px;
 font-family: "BankGothic Md BT";
+line-height: 2em;
+background-image:url("rainbow.jpg");
+background-repeat:repeat-y;
+border-left-width:20%; 
 }
 
 .red{
 color: white;
 font-family: "bauhaus 93";
+letter-spacing: 1em;
 }
 
 .blue{
 padding-left:10px;
 font-size:1.5em ;
 color: red;
+text-align: right;
 }
 
 #greenh2{
 	color: gray;
 	font-style: italic;
 }
-a{
-font-size: x-large;
-color: #AA7700;
-}
 h1{
 	font-family: 'Pacifico', cursive;
+}
+a:link{
+	text-decoration: none;
+	color: #AA7700;
+}
+a:visitesd, a:active{
+	text-decoration: none;
+	color: 	#66FFFF;
+
+}
+a:hover{
+	text-decoration: none;
+	font-size: x-large;
 }
