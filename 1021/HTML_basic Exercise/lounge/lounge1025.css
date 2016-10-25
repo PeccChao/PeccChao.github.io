@@ -1,5 +1,5 @@
 h1 {
-    color:red;
+    color:dimgray;
     font-size: 50px;
 }
 h2{
@@ -51,4 +51,7 @@ color: red;
 a{
 font-size: x-large;
 color: #AA7700;
+}
+h1{
+	font-family: 'Pacifico', cursive;
 }
