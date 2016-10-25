@@ -1,0 +1,54 @@
+h1 {
+    color:red;
+    font-size: 50px;
+}
+h2{
+	color: blue;
+	font-weight: bolder;
+}
+h4,h5{
+	color: green;
+}
+p{
+	font-family:"Calibri"
+}
+br{padding-top: 20px;
+
+}
+*{
+	background-color:pink;
+	border: 3px dashed gold; 
+	/*notes
+	border-width: ;
+	border-color: ;
+	border-style: ;
+	*/
+}
+.green{
+background-color: white;
+}
+
+.lightblue{
+margin: 20px;
+font-family: "BankGothic Md BT";
+}
+
+.red{
+color: white;
+font-family: "bauhaus 93";
+}
+
+.blue{
+padding-left:10px;
+font-size:1.5em ;
+color: red;
+}
+
+#greenh2{
+	color: gray;
+	font-style: italic;
+}
+a{
+font-size: x-large;
+color: #AA7700;
+}
