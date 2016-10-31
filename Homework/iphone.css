@@ -1,5 +1,6 @@
 *{
 	background-color: black;
+	color: white;
 }
 
 
@@ -83,3 +84,15 @@ background-color:black;
 position:absolute;	
 }
 
+
+a:link{
+	text-decoration: none;
+}
+a:visitesd, a:active{
+	text-decoration: none;
+
+}
+a:hover{
+	text-decoration: none;
+	font-size: x-large;
+}
