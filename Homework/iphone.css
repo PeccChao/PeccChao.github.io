@@ -1,6 +1,5 @@
 *{
 	background-color: black;
-	color: white;
 }
 
 
@@ -84,15 +83,11 @@ background-color:black;
 position:absolute;	
 }
 
-
-a:link{
-	text-decoration: none;
-}
-a:visitesd, a:active{
-	text-decoration: none;
-
-}
-a:hover{
-	text-decoration: none;
-	font-size: x-large;
+.input{
+	position: absolute;
+	height:390px;
+	width:260px;
+	top: 110px;
+	left:530px;
+	background-color: #888888;
 }
